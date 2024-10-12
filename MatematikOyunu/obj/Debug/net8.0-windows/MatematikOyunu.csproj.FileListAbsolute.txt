@@ -1,0 +1,16 @@
+D:\vs\proje\MatematikOyunu\MatematikOyunu\MatematikOyunu\bin\Debug\net8.0-windows\MatematikOyunu.exe
+D:\vs\proje\MatematikOyunu\MatematikOyunu\MatematikOyunu\bin\Debug\net8.0-windows\MatematikOyunu.deps.json
+D:\vs\proje\MatematikOyunu\MatematikOyunu\MatematikOyunu\bin\Debug\net8.0-windows\MatematikOyunu.runtimeconfig.json
+D:\vs\proje\MatematikOyunu\MatematikOyunu\MatematikOyunu\bin\Debug\net8.0-windows\MatematikOyunu.dll
+D:\vs\proje\MatematikOyunu\MatematikOyunu\MatematikOyunu\bin\Debug\net8.0-windows\MatematikOyunu.pdb
+D:\vs\proje\MatematikOyunu\MatematikOyunu\MatematikOyunu\obj\Debug\net8.0-windows\MatematikOyunu.Form1.resources
+D:\vs\proje\MatematikOyunu\MatematikOyunu\MatematikOyunu\obj\Debug\net8.0-windows\MatematikOyunu.csproj.GenerateResource.cache
+D:\vs\proje\MatematikOyunu\MatematikOyunu\MatematikOyunu\obj\Debug\net8.0-windows\MatematikOyunu.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs\proje\MatematikOyunu\MatematikOyunu\MatematikOyunu\obj\Debug\net8.0-windows\MatematikOyunu.AssemblyInfoInputs.cache
+D:\vs\proje\MatematikOyunu\MatematikOyunu\MatematikOyunu\obj\Debug\net8.0-windows\MatematikOyunu.AssemblyInfo.cs
+D:\vs\proje\MatematikOyunu\MatematikOyunu\MatematikOyunu\obj\Debug\net8.0-windows\MatematikOyunu.csproj.CoreCompileInputs.cache
+D:\vs\proje\MatematikOyunu\MatematikOyunu\MatematikOyunu\obj\Debug\net8.0-windows\MatematikOyunu.dll
+D:\vs\proje\MatematikOyunu\MatematikOyunu\MatematikOyunu\obj\Debug\net8.0-windows\refint\MatematikOyunu.dll
+D:\vs\proje\MatematikOyunu\MatematikOyunu\MatematikOyunu\obj\Debug\net8.0-windows\MatematikOyunu.pdb
+D:\vs\proje\MatematikOyunu\MatematikOyunu\MatematikOyunu\obj\Debug\net8.0-windows\MatematikOyunu.genruntimeconfig.cache
+D:\vs\proje\MatematikOyunu\MatematikOyunu\MatematikOyunu\obj\Debug\net8.0-windows\ref\MatematikOyunu.dll
